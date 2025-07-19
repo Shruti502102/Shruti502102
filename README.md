@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-I’m **Shruti Srivastava**, a B.Tech Data Science student passionate about building creative projects and solving real-world problems with code and data.
+I’m **Shruti Srivastava**, a B.Tech Data Science student driven by curiosity and a passion for solving real-world problems with code and data.
 
-- 🔭 I’m currently working on **Big Data Analytics**, **Java DSA**, and **Full-Stack Web Development** projects.
-- 🌱 I’m currently learning **ReactJS**, **TensorFlow**, **Figma**, and advanced **Python/R for Data Science**.
-- 👯 I’m looking to collaborate on **open-source projects**, **animated websites for kids**, and **news aggregator apps**.
-- 🤝 I’m open to internships and roles in **Software Engineering**, **Data Science**, and **Business Intelligence**.
+- 🔭 Currently working on **Big Data Analytics**, **Java DSA**, and **Full-Stack Web Development** projects.
+- 🌱 Currently learning **ReactJS**, **TensorFlow**, **Figma**, and advanced **Python/R** for data science and machine learning.
+- 👯 Looking to collaborate on **open-source projects**, **educational websites**, and **news aggregator apps**.
+- 🤝 Open to internships and roles in **Software Engineering**, **Data Science**, and **Business Intelligence**.
 - 💬 Ask me about **Data Analysis**, **Java**, **Python**, **R**, or **AR/VR development**.
 - 📫 How to reach me: **shrutisrivastava502102@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love anime, especially *Welcome to Demon School! Iruma-kun*, and I enjoy reading reincarnation novels.
+- ⚡ Fun fact: I’m an anime fan (*Welcome to Demon School! Iruma-kun*) and enjoy reading reincarnation novels.
+- 🌟 Another fun fact: I believe in continuous learning — I recently completed internships in AR/VR and AI, and I’m always looking for new technologies to explore.
 
 ---
 
-✨ *Let’s connect and build something amazing together!*
+✨ *Let’s connect and create meaningful solutions together!*
+
