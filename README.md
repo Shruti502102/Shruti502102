@@ -9,8 +9,7 @@ I’m **Shruti Srivastava**, a B.Tech Data Science student driven by curiosity a
 - 💬 Ask me about **Data Analysis**, **Java**, **Python**, **R**, or **AR/VR development**.
 - 📫 How to reach me: **shrutisrivastava502102@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I’m an anime fan (*Welcome to Demon School! Iruma-kun*) and enjoy reading reincarnation novels.
-- 🌟 Another fun fact: I believe in continuous learning — I recently completed internships in AR/VR and AI, and I’m always looking for new technologies to explore.
+- ⚡ Fun fact: I believe in continuous learning — I recently completed internships in AR/VR and AI, and I’m always looking for new technologies to explore.
 
 ---
 
