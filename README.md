@@ -1,17 +1,61 @@
-## Hi there 👋
+# Hi there 👋, I'm Shruti Srivastava  
 
-I’m **Shruti Srivastava**, a B.Tech Data Science student driven by curiosity and a passion for solving real-world problems with code and data.
-
-- 🔭 Currently working on **Big Data Analytics**, **Java DSA**, and **Full-Stack Web Development** projects.
-- 🌱 Currently learning **ReactJS**, **TensorFlow**, **Figma**, and advanced **Python/R** for data science and machine learning.
-- 👯 Looking to collaborate on **open-source projects**, **educational websites**, and **news aggregator apps**.
-- 🤝 Open to internships and roles in **Software Engineering**, **Data Science**, and **Business Intelligence**.
-- 💬 Ask me about **Data Analysis**, **Java**, **Python**, **R**, or **AR/VR development**.
-- 📫 How to reach me: **shrutisrivastava502102@gmail.com**
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I believe in continuous learning — I recently completed internships in AR/VR and AI, and I’m always looking for new technologies to explore.
+🎓 **B.Tech Data Science student** | 💻 Passionate about coding, data, and building impactful solutions  
 
 ---
 
-✨ *Let’s connect and create meaningful solutions together!*
+## 🚀 About Me  
+I’m a curious learner and problem solver who loves turning ideas into reality using **code + data**. From developing **Big Data** and **ML models** to creating **web apps** and exploring **AR/VR**, I thrive on challenges that push me to grow.  
+
+---
+
+## 🔭 Currently Working On  
+- Big Data Analytics projects  
+- Java DSA and algorithmic problem-solving  
+- Full-Stack Web Development  
+
+## 🌱 Currently Learning  
+- **ReactJS** for front-end development  
+- **TensorFlow** for deep learning  
+- **Figma** for UI/UX design  
+- Advanced **Python** and **R** for Data Science  
+
+---
+
+## 👯 Looking to Collaborate On  
+- Open-source projects  
+- Educational platforms  
+- News aggregator / intelligent apps  
+
+---
+
+## 💡 Career Interests  
+- Software Engineering  
+- Data Science & Machine Learning  
+- Business Intelligence  
+
+---
+
+## 💬 Ask Me About  
+- Data Analysis & Visualization  
+- Machine Learning & AI  
+- Java | Python | R  
+- AR/VR Development  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: **shrutisrivastava502102@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shruti-srivastava-2b2101269/) *(add your LinkedIn link here)*  
+- 🌐 [Portfolio](https://shruti502102.github.io/Portfolio/) *(add your portfolio link here)*  
+
+---
+
+## ⚡ Fun Fact  
+I believe in **continuous learning** — from internships in **AR/VR** and **AI** to building projects in **analytics & web development**, I’m always exploring technologies that shape the future 🚀.  
+
+---
+
+✨ *Let’s connect and create meaningful solutions together!* ✨  
+
 
