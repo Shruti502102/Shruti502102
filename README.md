@@ -46,9 +46,8 @@ I’m a curious learner and problem solver who loves turning ideas into reality 
 
 ## 📫 Connect With Me  
 - 📧 Email: **shrutisrivastava502102@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shruti-srivastava-2b2101269/) *(add your LinkedIn link here)*  
-- 🌐 [Portfolio](https://shruti502102.github.io/Portfolio/) *(add your portfolio link here)*  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/shruti-srivastava-2b2101269/)
+- 🌐 [Portfolio](https://shruti502102.github.io/Portfolio/) 
 ---
 
 ## ⚡ Fun Fact  
